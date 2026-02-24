@@ -55,6 +55,14 @@ The application will automatically open in your browser (default port 8080, will
 5. Use sorting options to sort files by creation time or name
 6. Click the language switch button in the top right to switch between Chinese and English
 
+## 界面预览 / Interface Preview
+
+### 中文界面 / Chinese Interface
+![中文界面](界面.png)
+
+### 英文界面 / English Interface
+![英文界面](interface.png)
+
 ## 界面布局 / Layout
 
 - **左侧 / Left**: 预览区（图片预览 + 文本编辑）/ Preview Area (Image + Text Editor)
